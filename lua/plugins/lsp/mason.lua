@@ -34,7 +34,7 @@ return {
 				"graphql",
 				"emmet_ls",
 				"prismals",
-				"pylsp",
+				"pyright",
 				-- "mojo",
 				"gopls",
 			},

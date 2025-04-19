@@ -47,6 +47,7 @@ return {
 				"cpp",
 				"python",
 				"go",
+				"java",
 			},
 			incremental_selection = {
 				enable = true,
