@@ -10,7 +10,7 @@ opt.shiftwidth = 2
 opt.softtabstop = 2
 opt.expandtab = true
 opt.smartindent = true
-opt.wrap = true
+opt.wrap = false
 
 -- Search
 opt.incsearch = true

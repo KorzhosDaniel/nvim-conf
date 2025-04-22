@@ -47,6 +47,7 @@ return {
 				"isort", -- python formatter
 				"flake8", -- python formatter
 				"eslint_d",
+        "rust-analyzer",
 			},
 		})
 	end,

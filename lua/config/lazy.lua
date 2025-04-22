@@ -20,7 +20,7 @@ require("lazy").setup({
     { import = "plugins" },
     { import = "plugins.lsp" },
   },
-  -- install = { colorscheme = { "cyberdream" } },
+  install = { colorscheme = { "cyberdream" } },
   checker = {
     enabled = true,
     notify = false,

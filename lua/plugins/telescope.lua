@@ -27,6 +27,11 @@ return {
 				theme = {
 					variant = "auto",
 				},
+        pickers = {
+          find_files = {
+            theme = "dropdown",
+          },
+        },
 				file_ignore_patterns = {
 					"node_modules/",
 					"^node_modules/",
